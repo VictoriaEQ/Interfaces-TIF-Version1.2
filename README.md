@@ -32,4 +32,4 @@
 ## -- ELEMENTOS QUE FALTAN DESARROLLAR PARA LA VERSIÓN 2.1 --
 - En el sector de 'Tienda Virtual', realizar consumo de API externa de Mercado Pago
 - Adicionar capa DTO para mejor manejo de los objetos y la correcta implementación de la API externa
-- Pulir la capa Security, para utilizar BCrypt + Manejo de Usuarios/Roles/Permisos mediante BDs - NIVEL AVANZADO -
+- Pulir la capa Security, para utilizar BCrypt + Manejo de Usuarios/Roles/Permisos mediante BDs para implementar persistencia real - NIVEL AVANZADO -
