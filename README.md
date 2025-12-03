@@ -11,7 +11,7 @@
 
 ### INICIO DE LA APLICACIÓN
 > INDEX.THML ESTÁ DESARROLLADO CON THYMELEAF POR LO QUE DEBE 'DESPLEGARSE' MEDIANTE localhost:8080 EN EL NAVEGADOR.
-> PREVIAMENTE, DEBE CREARSE LA BASE DE DATOS (ADICIONADA AL TREE DEL PROYECTO) Y EJECUTAR RUN SOBRE EL ARCHIVO APPLICATION
+> PREVIAMENTE, DEBE CREARSE LA BASE DE DATOS (ADICIONADA AL TREE DEL PROYECTO) Y EJECUTAR RUN SOBRE EL ARCHIVO APPLICATION.
 
 ### LAS INTERFACES EN SÍ, EN ÉSTE PUNTO DEL DESARROLLO DE LA APLICACIÓN, ESTÁN PENSADAS PARA EL ADMINISTRADOR DE LA ARTÍSICA.
 > LOGIN - admin - 1234
@@ -30,6 +30,6 @@
 
 
 ## -- ELEMENTOS A DESARROLLAR PARA LA VERSIÓN 2.1 --
-- En el sector de 'Tienda Virtual', realizar consumo de API externa de Mercado Pago
-- Adicionar capa DTO para mejor manejo de los objetos y la correcta implementación de la API externa
+- En el sector de 'Tienda Virtual', realizar consumo de API externa de Mercado Pago y para adicionar el aspecto e-commerce a la aplicación.
+- Adicionar capa DTO para mejor manejo de los objetos y la correcta implementación de la API externa.
 - Pulir la capa Security, para utilizar BCrypt + Manejo de Usuarios/Roles/Permisos mediante BDs para implementar persistencia real - NIVEL AVANZADO -
