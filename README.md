@@ -16,7 +16,7 @@
 ### LAS INTERFACES EN SÍ, EN ÉSTE PUNTO DEL DESARROLLO DE LA APLICACIÓN, ESTÁN PENSADAS PARA EL ADMINISTRADOR DE LA ARTÍSICA.
 > LOGIN - admin - 1234
 
-## -- ELEMENTOS QUE FALTAN DESARROLLAR PARA LA VERSIÓN 1.3 --
+## -- ELEMENTOS A DESARROLLAR PARA LA VERSIÓN 1.3 --
 - Pulir FrontEnd (estilos y visualización general de la aplicación)
 - Adicionar JS Axios en el FrontEnd para facturas.html
 - Manejo de la entidad Detalle_Facturas en facturas.html
@@ -29,7 +29,7 @@
 > - Logout y redirección a login
 
 
-## -- ELEMENTOS QUE FALTAN DESARROLLAR PARA LA VERSIÓN 2.1 --
+## -- ELEMENTOS A DESARROLLAR PARA LA VERSIÓN 2.1 --
 - En el sector de 'Tienda Virtual', realizar consumo de API externa de Mercado Pago
 - Adicionar capa DTO para mejor manejo de los objetos y la correcta implementación de la API externa
 - Pulir la capa Security, para utilizar BCrypt + Manejo de Usuarios/Roles/Permisos mediante BDs para implementar persistencia real - NIVEL AVANZADO -
