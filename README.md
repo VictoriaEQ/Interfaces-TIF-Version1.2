@@ -23,10 +23,10 @@
 - Manejo del login del Administrador mediante Spring Security - NIVEL MEDIO - (dado que en este momento los datos se encuentran harcodeados y se maneja el login mediante JS)
 
 - En éste punto, la arista de Security se manejará de la siguiente forma:
-> Login vía formulario (/login)
-> Usuario “admin” con contraseña hardcodeada en memoria
-> Rutas /admin/** protegidas
-> Logout y redirección a login
+> - Login vía formulario (/login)
+> - Usuario “admin” con contraseña hardcodeada en memoria
+> - Rutas /admin/** protegidas
+> - Logout y redirección a login
 
 
 ## -- ELEMENTOS QUE FALTAN DESARROLLAR PARA LA VERSIÓN 2.1 --
