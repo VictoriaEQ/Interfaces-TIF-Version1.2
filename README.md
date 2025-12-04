@@ -21,6 +21,8 @@
 - Adicionar JS Axios en el FrontEnd para facturas.html
 - Manejo de la entidad Detalle_Facturas en facturas.html
 - Manejo del login del Administrador mediante Spring Security - NIVEL MEDIO - (dado que en este momento los datos se encuentran harcodeados y se maneja el login mediante JS)
+- Manejo de las ventanas modale para Productos, Clientes, Facturas/Detalles Facturas.
+
 
 - En éste punto, la arista de Security se manejará de la siguiente forma:
 > - Login vía formulario (/login)
